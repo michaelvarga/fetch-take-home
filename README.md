@@ -4,8 +4,8 @@ This is a simple webpage that contains a user creation form. Data for the dropdo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I used Bootstrap to style the app and making it responsive, and used Firebase to host it.
 
-
-View the project on [Github](https://github.com/michaelvarga/fetch-take-home)
+Hosted on [Firebase](https://fetch-rewards-take-home.firebaseapp.com/)
+View the project on [Github](https://github.com/michaelvarga/fetch-take-home).
 Check out my [LinkedIn](http://www.linkedin.com/in/mike-p-varga)
 
 ## Available Scripts
